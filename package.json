@@ -1,0 +1,23 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Aplicacion que retorna numeros aleatorios desde un API. ",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheekeeperG/API.git"
+  },
+  "author": "Gallardo Gómez Jorge Eduardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheekeeperG/API/issues"
+  },
+  "homepage": "https://github.com/TheekeeperG/API#readme"
+}
